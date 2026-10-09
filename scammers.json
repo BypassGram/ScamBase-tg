@@ -8,7 +8,10 @@
   },
   {
     "id": 3549453501,
-    "username": null,
+    "username": "CentralTikTok",
+    "usernames": [
+      "CentralTikTok"
+    ],
     "reason": "Канал: вредоносное ПО",
     "date": 1728462800000,
     "proof": "https://t.me/notoscam_bpgram"
@@ -16,6 +19,9 @@
   {
     "id": 487676608,
     "username": "ProstoLoftan",
+    "usernames": [
+      "ProstoLoftan"
+    ],
     "reason": "Краш-стикер",
     "date": 1728462800000,
     "proof": "https://t.me/notoscam_bpgram"
@@ -30,15 +36,43 @@
   {
     "id": 5877690578,
     "username": "subroutine_ZEFF",
+    "usernames": [
+      "subroutine_ZEFF"
+    ],
     "reason": "Вредоносное ПО",
     "date": 1728462800000,
     "proof": "https://t.me/notoscam_bpgram"
   },
   {
     "id": 4368700637,
-    "username": "xieworld_vf2",
+    "username": "TikTok_Prime",
+    "usernames": [
+      "TikTok_Prime",
+      "tiktokprime",
+      "xieworld_vf2"
+    ],
     "reason": "Канал: краш Telegram-клиента",
     "date": 1728462800000,
+    "proof": "https://t.me/notoscam_bpgram"
+  },
+  {
+    "id": 8554202857,
+    "username": "ItsDestroyed",
+    "usernames": [
+      "ItsDestroyed"
+    ],
+    "reason": "Скам и вредоносное ПО",
+    "date": 1728463500000,
+    "proof": "https://t.me/notoscam_bpgram"
+  },
+  {
+    "id": 6902916157,
+    "username": "deilpointer",
+    "usernames": [
+      "deilpointer"
+    ],
+    "reason": "Скам",
+    "date": 1728463500000,
     "proof": "https://t.me/notoscam_bpgram"
   }
 ]
