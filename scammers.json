@@ -176,5 +176,44 @@
     "reason": "Продажа устройств для мошенничества",
     "date": 1728465000000,
     "proof": "https://t.me/notoscam_bpgram"
+  },
+  {
+    "id": 8792220177,
+    "username": null,
+    "usernames": [],
+    "reason": "Реклама скам-ботов",
+    "date": 1728468800000,
+    "proof": "https://t.me/notoscam_bpgram"
+  },
+  {
+    "id": 8979273539,
+    "username": "Dhm_ab85ac99bot",
+    "usernames": [
+      "Dhm_ab85ac99bot"
+    ],
+    "reason": "Скам-бот",
+    "date": 1728468800000,
+    "proof": "https://t.me/notoscam_bpgram"
+  },
+  {
+    "id": 8689128925,
+    "username": "Dhm_686ffd21bot",
+    "usernames": [
+      "Dhm_686ffd21bot"
+    ],
+    "reason": "Скам-бот",
+    "date": 1728468800000,
+    "proof": "https://t.me/notoscam_bpgram"
+  },
+  {
+    "id": 8943067990,
+    "username": "Dhm_62477c6abot",
+    "usernames": [
+      "Dhm_62477c6abot"
+    ],
+    "reason": "Скам-бот",
+    "date": 1728468800000,
+    "proof": "https://t.me/notoscam_bpgram"
   }
 ]
+
