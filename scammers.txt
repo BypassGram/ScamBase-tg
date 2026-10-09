@@ -1,0 +1,8 @@
+# BypassGram ScamBase Database
+# Format: id|reason|date|proof|username
+2531488153|Канал: вредоносное ПО|1728462800000|https://t.me/notoscam_bpgram|
+3549453501|Канал: вредоносное ПО|1728462800000|https://t.me/notoscam_bpgram|
+487676608|Краш-стикер|1728462800000|https://t.me/notoscam_bpgram|ProstoLoftan
+1995305159|Канал: вредоносное ПО|1728462800000|https://t.me/notoscam_bpgram|
+5877690578|Вредоносное ПО|1728462800000|https://t.me/notoscam_bpgram|subroutine_ZEFF
+4368700637|Канал: краш Telegram-клиента|1728462800000|https://t.me/notoscam_bpgram|xieworld_vf2
