@@ -23,4 +23,7 @@
 8979273539|Скам-бот|1728468800000|https://t.me/notoscam_bpgram|Dhm_ab85ac99bot
 8689128925|Скам-бот|1728468800000|https://t.me/notoscam_bpgram|Dhm_686ffd21bot
 8943067990|Скам-бот|1728468800000|https://t.me/notoscam_bpgram|Dhm_62477c6abot
-
+8324086245|Скам-бот: краш Telegram-клиента|1791578820000|https://t.me/notoscam_bpgram|asdasadasdsadbot
+2667240603|Канал: краш Telegram-клиента|1791579480000|https://t.me/notoscam_bpgram|xieworld_vf
+6716354327|Краш Telegram-клиента (владелец канала xieworld_vf)|1791579480000|https://t.me/notoscam_bpgram|paroslaw
+6418664103|Краш Telegram-клиента (админ канала xieworld_vf)|1791579480000|https://t.me/notoscam_bpgram|glebxdlol

@@ -214,6 +214,45 @@
     "reason": "Скам-бот",
     "date": 1728468800000,
     "proof": "https://t.me/notoscam_bpgram"
+  },
+  {
+    "id": 8324086245,
+    "username": "asdasadasdsadbot",
+    "usernames": [
+      "asdasadasdsadbot"
+    ],
+    "reason": "Скам-бот: краш Telegram-клиента",
+    "date": 1791578820000,
+    "proof": "https://t.me/notoscam_bpgram"
+  },
+  {
+    "id": 2667240603,
+    "username": "xieworld_vf",
+    "usernames": [
+      "xieworld_vf"
+    ],
+    "reason": "Канал: краш Telegram-клиента",
+    "date": 1791579480000,
+    "proof": "https://t.me/notoscam_bpgram"
+  },
+  {
+    "id": 6716354327,
+    "username": "paroslaw",
+    "usernames": [
+      "paroslaw"
+    ],
+    "reason": "Краш Telegram-клиента (владелец канала xieworld_vf)",
+    "date": 1791579480000,
+    "proof": "https://t.me/notoscam_bpgram"
+  },
+  {
+    "id": 6418664103,
+    "username": "glebxdlol",
+    "usernames": [
+      "glebxdlol"
+    ],
+    "reason": "Краш Telegram-клиента (админ канала xieworld_vf)",
+    "date": 1791579480000,
+    "proof": "https://t.me/notoscam_bpgram"
   }
 ]
-
