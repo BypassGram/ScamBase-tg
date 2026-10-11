@@ -433,5 +433,35 @@
     "reason": "Вредоносное ПО, скам, нарушение Конституции РФ",
     "date": 1791589822274,
     "proof": "https://t.me/notoscam_bpgram"
+  },
+  {
+    "id": 2055190994,
+    "username": "utonemAss",
+    "usernames": [
+      "utonemAss"
+    ],
+    "reason": "Скам",
+    "date": 1791700112459,
+    "proof": "https://t.me/notoscam_bpgram"
+  },
+  {
+    "id": 7684599486,
+    "username": "Zenitovez",
+    "usernames": [
+      "Zenitovez"
+    ],
+    "reason": "Скам",
+    "date": 1791700112459,
+    "proof": "https://t.me/notoscam_bpgram"
+  },
+  {
+    "id": 8200403310,
+    "username": "target1489",
+    "usernames": [
+      "target1489"
+    ],
+    "reason": "Скам, распространение вредоносного ПО",
+    "date": 1791700112459,
+    "proof": "https://t.me/notoscam_bpgram"
   }
 ]
