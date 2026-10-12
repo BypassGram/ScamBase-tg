@@ -513,5 +513,15 @@
     "reason": "Вредоносное ПО",
     "date": 1791783496503,
     "proof": "https://t.me/notoscam_bpgram"
+  },
+  {
+    "id": 8771283568,
+    "username": "Vdev9",
+    "usernames": [
+      "Vdev9"
+    ],
+    "reason": "Попытка вывести из строя клиент Telegram",
+    "date": 1791786746082,
+    "proof": "https://t.me/notoscam_bpgram"
   }
 ]
