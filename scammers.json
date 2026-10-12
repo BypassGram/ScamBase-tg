@@ -463,5 +463,55 @@
     "reason": "Скам, распространение вредоносного ПО",
     "date": 1791700112459,
     "proof": "https://t.me/notoscam_bpgram"
+  },
+  {
+    "id": 1339737452,
+    "username": "NekoUpdates",
+    "usernames": [
+      "NekoUpdates"
+    ],
+    "reason": "Вредоносное ПО",
+    "date": 1791783496503,
+    "proof": "https://t.me/notoscam_bpgram"
+  },
+  {
+    "id": 1349472891,
+    "username": "NekoChat",
+    "usernames": [
+      "NekoChat"
+    ],
+    "reason": "Вредоносное ПО",
+    "date": 1791783496503,
+    "proof": "https://t.me/notoscam_bpgram"
+  },
+  {
+    "id": 1221673407,
+    "username": "NekoChatZH",
+    "usernames": [
+      "NekoChatZH"
+    ],
+    "reason": "Вредоносное ПО",
+    "date": 1791783496503,
+    "proof": "https://t.me/notoscam_bpgram"
+  },
+  {
+    "id": 1593865519,
+    "username": "NekoChatRU",
+    "usernames": [
+      "NekoChatRU"
+    ],
+    "reason": "Вредоносное ПО",
+    "date": 1791783496503,
+    "proof": "https://t.me/notoscam_bpgram"
+  },
+  {
+    "id": 1302242053,
+    "username": "NekogramAPKs",
+    "usernames": [
+      "NekogramAPKs"
+    ],
+    "reason": "Вредоносное ПО",
+    "date": 1791783496503,
+    "proof": "https://t.me/notoscam_bpgram"
   }
 ]
