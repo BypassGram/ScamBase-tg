@@ -523,5 +523,25 @@
     "reason": "Попытка вывести из строя клиент Telegram",
     "date": 1791786746082,
     "proof": "https://t.me/notoscam_bpgram"
+  },
+  {
+    "id": 6855461612,
+    "username": "ggiiallen78",
+    "usernames": [
+      "ggiiallen78"
+    ],
+    "reason": "Твинк скамера @ymoyer_yeg2",
+    "date": 1791969592552,
+    "proof": "https://t.me/notoscam_bpgram"
+  },
+  {
+    "id": 5748007655,
+    "username": "ymoyer_yeg2",
+    "usernames": [
+      "ymoyer_yeg2"
+    ],
+    "reason": "Скам",
+    "date": 1791969592552,
+    "proof": "https://t.me/notoscam_bpgram"
   }
 ]
